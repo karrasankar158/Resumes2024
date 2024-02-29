@@ -40,11 +40,15 @@ ________________________________________________________________________________
     system and every source system have provides and that migrate by INFA(Information) Tearm to store sourse system to EPDS DB.Medicare is ahealth insurance 
     plan sponsored by the US Federal government for its citizens.  
 _____________________________________________________________________________________________________________________________________________________________________________________
-Title      :  Retailer Portal
-Client          :  IMPAL,TVS,Pharma
-Retailer Portal fulfills all the requirement of a Organization like (IMPAL,TVS, some other pharmacy.It have Several application for Several Employee Like Salesman,Retailer,Dealer,Supplier,and manager also.
-    This Product Provides Sales Order, Purchase Order, Sales Invoice, Notes , Order-history and Sales return and all portal application has accesss manager. The main Functionality of this app is it is syncing the millions of data in every 2 minute in compressed 
-format and updating in all the devices
+6. Title:  Retailer Portal
+   Client:  IMPAL,TVS,Pharma
+   Project Description:
+     Retailer Portal fulfills all the requirement of a Organization like (IMPAL,TVS, some other pharmacy.It have Several application for Several Employee 
+      Like Salesman,Retailer,Dealer,Supplier,and manager also.
+      This Product Provides Sales Order, Purchase Order, Sales Invoice, Notes , Order-history and Sales return and all portal application has accesss manager. 
+      The main Functionality of this app is it is syncing the millions of data in every 2 minute in compressed 
+      format and updating in all the devices.
+______________________________________________________________________________________________________________________________________________________________________________________
 
 CTRM (Commodity Trading Risk Management)
 Client          :  Grain Crop Pvt Ltd
