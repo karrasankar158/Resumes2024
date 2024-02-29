@@ -32,17 +32,24 @@ Description:
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-Project Name              :      HotPak (Oct 2011 to March 2013) 
-Client:     Global Towers Hotel, The Chariot etc. 
+Project Name:  HotPak (Oct 2011 to March 2013) 
+Client:  Global Towers Hotel, The Chariot etc. 
 Description: 
-                     This software is implemented as a product to target any hotels. The software is developed on the hotel domain. It has many master entries such as Billing Cycle Master where the tariff rates are stored. Room Reservation, Check-in, and Check-out process are maintained properly. End of the Day process is to be run on every day which will verify the consistency of data such as checkout of guests, Reservation of rooms and amount calculated etc., are carried out completely. If the process fails, then the user has to check the various entries and correct them so that the business date will be changed immediately.
+      This software is implemented as a product to target any hotels. The software is developed on the hotel domain. It has many master entries such as 
+       Billing Cycle Master where the tariff rates are stored. Room Reservation, Check-in, and Check-out process are maintained properly. 
+       End of the Day process is to be run on every day which will verify the consistency of data such as checkout of guests, Reservation of rooms and amount calculated etc., 
+      are carried out completely. If the process fails, then the user has to check the various entries and correct them so that the business date will be changed immediately.
 
-    
+__________________________________________________________________________________________________________________________________________________________________________
 
-Project Title                           : EPDS (Enterprise provider database system).
-Client                                      : WELL POINT
- Domain                                  : Healthcare.     
-    EPDS is a system that handles all the provider information and store in the central respository for various propose.EPDS having 8 source system and every source system have provides and that migrate by INFA(Information) Tearm to store sourse system to EPDS DB.Medicare is ahealth insurance plan sponsored by the US Federal government for its citizens.  
+Project Title: EPDS (Enterprise provider database system).
+Client: WELL POINT
+Domain: Healthcare.  
+Description:
+    EPDS is a system that handles all the provider information and store in the central respository for various propose.EPDS having 8 source 
+    system and every source system have provides and that migrate by INFA(Information) Tearm to store sourse system to EPDS DB.Medicare is ahealth insurance 
+    plan sponsored by the US Federal government for its citizens.  
+_____________________________________________________________________________________________________________________________________________________________________________________
 
 Title      :  Retailer Portal
 Client          :  IMPAL,TVS,Pharma
@@ -93,4 +100,4 @@ Company Name:     Cylsys Software Solutions Pvt. Ltd.
                                        
 Description: - The objective of this project is to build a powerful Insurance product framework, which would cater to day to day functioning of the company from maintenance of policies / various different products of the company to maintenance of clients, generation of policy documents.
 Real time projects for resume 
-Show quoted text
+
